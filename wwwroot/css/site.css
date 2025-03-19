@@ -29,3 +29,21 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.navbar {
+  padding: 10px 15px;
+}
+
+.navbar .navbar-brand {
+  color: rgb(11, 204, 204);
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.navbar-nav .nav-link {
+  color: rgb(11, 204, 204);
+}
+
+.bg-coral {
+  background-color: rgb(247, 185, 162);
+}
