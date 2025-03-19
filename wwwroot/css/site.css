@@ -35,15 +35,15 @@ body {
 }
 
 .navbar .navbar-brand {
-  color: rgb(11, 204, 204);
+  color: rgb(6, 173, 173);
   font-size: 1.5rem;
   font-style: italic;
 }
 
 .navbar-nav .nav-link {
-  color: rgb(11, 204, 204);
+  color: rgb(2, 192, 192);
 }
 
 .bg-coral {
-  background-color: rgb(247, 185, 162);
+  background-color: rgb(169, 248, 248);
 }
