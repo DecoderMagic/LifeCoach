@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "crZbQIs4822qoFO+QWIzcuAi8U9PNa0njwFBG/60jas=",
+  "Hash": "28jIDlSThjdLdZNH2muoBZUpOivAyiQSdpdjhT0rGVo=",
   "Source": "LifeCoach",
   "BasePath": "_content/LifeCoach",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-szbi074xz2.gz",
+      "Identity": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-uso5nhzwls.gz",
       "SourceId": "LifeCoach",
       "SourceType": "Discovered",
       "ContentRoot": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/LifeCoach",
-      "RelativePath": "css/site#[.{fingerprint=szbi074xz2}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=uso5nhzwls}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rthtwvgv4y",
-      "Integrity": "gUSGXJ3U14L0WU8RerFSgKHZqN4EC0iuz6dSAOzEgGU=",
+      "Fingerprint": "yuybtvapdy",
+      "Integrity": "On4ZD/HnRGI5gyX4GalZdKboU00PDrAW3f6dN43/+sI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/css/site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "szbi074xz2",
-      "Integrity": "OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A=",
+      "Fingerprint": "uso5nhzwls",
+      "Integrity": "zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -1464,6 +1464,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/ElevatedThinkingLogo.png"
+    },
+    {
+      "Identity": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/homepageimg.png",
+      "SourceId": "LifeCoach",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/",
+      "BasePath": "_content/LifeCoach",
+      "RelativePath": "images/homepageimg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uhk7n8vfmu",
+      "Integrity": "flVRQXTWD0iUTUr2Qxf1UdifP1w7DBq6LXvF8aW9PZU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/homepageimg.png"
     },
     {
       "Identity": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/rounded_logo.png",
@@ -2771,12 +2792,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-szbi074xz2.gz",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-uso5nhzwls.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002044989775"
+          "Quality": "0.001858736059"
         }
       ],
       "ResponseHeaders": [
@@ -2786,15 +2807,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "537"
         },
         {
           "Name": "ETag",
-          "Value": "\"gUSGXJ3U14L0WU8RerFSgKHZqN4EC0iuz6dSAOzEgGU=\""
+          "Value": "\"On4ZD/HnRGI5gyX4GalZdKboU00PDrAW3f6dN43/+sI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 20:30:32 GMT"
+          "Value": "Wed, 19 Mar 2025 21:17:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2814,13 +2835,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A=\""
+          "Value": "W/\"zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A="
+          "Value": "sha256-zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE="
         }
       ]
     },
@@ -2835,7 +2856,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1037"
+          "Value": "1190"
         },
         {
           "Name": "Content-Type",
@@ -2843,11 +2864,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A=\""
+          "Value": "\"zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 20:30:32 GMT"
+          "Value": "Wed, 19 Mar 2025 21:17:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2857,13 +2878,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A="
+          "Value": "sha256-zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-szbi074xz2.gz",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-uso5nhzwls.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,7 +2893,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "537"
         },
         {
           "Name": "Content-Type",
@@ -2880,11 +2901,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gUSGXJ3U14L0WU8RerFSgKHZqN4EC0iuz6dSAOzEgGU=\""
+          "Value": "\"On4ZD/HnRGI5gyX4GalZdKboU00PDrAW3f6dN43/+sI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 20:30:32 GMT"
+          "Value": "Wed, 19 Mar 2025 21:17:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2902,18 +2923,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gUSGXJ3U14L0WU8RerFSgKHZqN4EC0iuz6dSAOzEgGU="
+          "Value": "sha256-On4ZD/HnRGI5gyX4GalZdKboU00PDrAW3f6dN43/+sI="
         }
       ]
     },
     {
-      "Route": "css/site.szbi074xz2.css",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-szbi074xz2.gz",
+      "Route": "css/site.uso5nhzwls.css",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-uso5nhzwls.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002044989775"
+          "Quality": "0.001858736059"
         }
       ],
       "ResponseHeaders": [
@@ -2923,15 +2944,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "537"
         },
         {
           "Name": "ETag",
-          "Value": "\"gUSGXJ3U14L0WU8RerFSgKHZqN4EC0iuz6dSAOzEgGU=\""
+          "Value": "\"On4ZD/HnRGI5gyX4GalZdKboU00PDrAW3f6dN43/+sI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 20:30:32 GMT"
+          "Value": "Wed, 19 Mar 2025 21:17:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2951,13 +2972,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A=\""
+          "Value": "W/\"zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "szbi074xz2"
+          "Value": "uso5nhzwls"
         },
         {
           "Name": "label",
@@ -2965,12 +2986,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A="
+          "Value": "sha256-zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE="
         }
       ]
     },
     {
-      "Route": "css/site.szbi074xz2.css",
+      "Route": "css/site.uso5nhzwls.css",
       "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2980,7 +3001,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1037"
+          "Value": "1190"
         },
         {
           "Name": "Content-Type",
@@ -2988,11 +3009,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A=\""
+          "Value": "\"zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 20:30:32 GMT"
+          "Value": "Wed, 19 Mar 2025 21:17:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3002,7 +3023,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "szbi074xz2"
+          "Value": "uso5nhzwls"
         },
         {
           "Name": "label",
@@ -3010,13 +3031,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OAkloyvEWXgsO+qOkUk+sBt7xh8BYBKRurwNoSED91A="
+          "Value": "sha256-zpdypnuXgb8yqURbEx6dBieW0m6FdldaKuu0fS1ZwFE="
         }
       ]
     },
     {
-      "Route": "css/site.szbi074xz2.css.gz",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-szbi074xz2.gz",
+      "Route": "css/site.uso5nhzwls.css.gz",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-uso5nhzwls.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3025,7 +3046,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "488"
+          "Value": "537"
         },
         {
           "Name": "Content-Type",
@@ -3033,11 +3054,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gUSGXJ3U14L0WU8RerFSgKHZqN4EC0iuz6dSAOzEgGU=\""
+          "Value": "\"On4ZD/HnRGI5gyX4GalZdKboU00PDrAW3f6dN43/+sI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 20:30:32 GMT"
+          "Value": "Wed, 19 Mar 2025 21:17:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3055,7 +3076,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "szbi074xz2"
+          "Value": "uso5nhzwls"
         },
         {
           "Name": "label",
@@ -3063,7 +3084,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gUSGXJ3U14L0WU8RerFSgKHZqN4EC0iuz6dSAOzEgGU="
+          "Value": "sha256-On4ZD/HnRGI5gyX4GalZdKboU00PDrAW3f6dN43/+sI="
         }
       ]
     },
@@ -3444,6 +3465,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-k412fCMZQJjjJZBPbbjlDsz+g9T8H7fD6T176KbYbyo="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepageimg.png",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/homepageimg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "493965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"flVRQXTWD0iUTUr2Qxf1UdifP1w7DBq6LXvF8aW9PZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 20:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-flVRQXTWD0iUTUr2Qxf1UdifP1w7DBq6LXvF8aW9PZU="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepageimg.uhk7n8vfmu.png",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/homepageimg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "493965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"flVRQXTWD0iUTUr2Qxf1UdifP1w7DBq6LXvF8aW9PZU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 20:45:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uhk7n8vfmu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/homepageimg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-flVRQXTWD0iUTUr2Qxf1UdifP1w7DBq6LXvF8aW9PZU="
         }
       ]
     },

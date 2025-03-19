@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/images/ElevatedThinkingLogo.png"
     },
     {
+      "Id": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/homepageimg.png",
+      "PackagePath": "staticwebassets/images/homepageimg.png"
+    },
+    {
       "Id": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/rounded_logo.png",
       "PackagePath": "staticwebassets/images/rounded_logo.png"
     },
