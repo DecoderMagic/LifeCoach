@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/ElevatedThinkingLogo.png",
+      "PackagePath": "staticwebassets/images/ElevatedThinkingLogo.png"
+    },
+    {
+      "Id": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/images/rounded_logo.png",
+      "PackagePath": "staticwebassets/images/rounded_logo.png"
+    },
+    {
       "Id": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

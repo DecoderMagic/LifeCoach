@@ -32,17 +32,23 @@ body {
 }
 
 .navbar {
-  padding: 10px 15px;
+  padding: 0px 0px;
 }
 
 .navbar .navbar-brand {
   color: rgb(6, 173, 173);
-  font-size: 1.5rem;
   font-style: italic;
 }
 
+.navbar-brand img {
+  width: 155px;
+  height: 95px;
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  object-fit: cover;
+}
 .navbar-nav .nav-link {
   color: rgb(2, 192, 192);
+  font-size: 1rem;
 }
 
 .bg-teal {

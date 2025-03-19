@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeCoach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ea53df6533004b3646c93bf49a3304bb12312a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+355fac539e7d5e8a920edbff76759fa49ac6bb77")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeCoach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeCoach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
