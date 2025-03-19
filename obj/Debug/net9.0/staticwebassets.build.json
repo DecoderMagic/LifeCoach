@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yjUfwN7ojJMkC+VozOBA7wTmKal9NZxoBty+7JST3Dw=",
+  "Hash": "bmkkXBJDZtazzcKXE6syKkEcDWu2FbFSF8mdU22Zc5M=",
   "Source": "LifeCoach",
   "BasePath": "_content/LifeCoach",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-dyzjzjl8xe.gz",
+      "Identity": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-wghgxhbn5s.gz",
       "SourceId": "LifeCoach",
       "SourceType": "Discovered",
       "ContentRoot": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/LifeCoach",
-      "RelativePath": "css/site#[.{fingerprint=dyzjzjl8xe}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=wghgxhbn5s}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dtlxio99ya",
-      "Integrity": "T5H50ohCSzC9p6N0yq2sSgPXx3+EmfRGp56Wy7Oy5xM=",
+      "Fingerprint": "7163p8jfd1",
+      "Integrity": "tfVicYYtNwvhIkzIVhFR0vpsxqbSLy2JyJ+ndsFZAAw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/css/site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dyzjzjl8xe",
-      "Integrity": "xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E=",
+      "Fingerprint": "wghgxhbn5s",
+      "Integrity": "cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-dyzjzjl8xe.gz",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-wghgxhbn5s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002421307506"
+          "Quality": "0.002331002331"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "428"
         },
         {
           "Name": "ETag",
-          "Value": "\"T5H50ohCSzC9p6N0yq2sSgPXx3+EmfRGp56Wy7Oy5xM=\""
+          "Value": "\"tfVicYYtNwvhIkzIVhFR0vpsxqbSLy2JyJ+ndsFZAAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:07:51 GMT"
+          "Value": "Wed, 19 Mar 2025 19:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E=\""
+          "Value": "W/\"cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E="
+          "Value": "sha256-cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "878"
+          "Value": "916"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E=\""
+          "Value": "\"cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:07:51 GMT"
+          "Value": "Wed, 19 Mar 2025 19:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E="
+          "Value": "sha256-cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-dyzjzjl8xe.gz",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-wghgxhbn5s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "428"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T5H50ohCSzC9p6N0yq2sSgPXx3+EmfRGp56Wy7Oy5xM=\""
+          "Value": "\"tfVicYYtNwvhIkzIVhFR0vpsxqbSLy2JyJ+ndsFZAAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:07:51 GMT"
+          "Value": "Wed, 19 Mar 2025 19:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T5H50ohCSzC9p6N0yq2sSgPXx3+EmfRGp56Wy7Oy5xM="
+          "Value": "sha256-tfVicYYtNwvhIkzIVhFR0vpsxqbSLy2JyJ+ndsFZAAw="
         }
       ]
     },
     {
-      "Route": "css/site.dyzjzjl8xe.css",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-dyzjzjl8xe.gz",
+      "Route": "css/site.wghgxhbn5s.css",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-wghgxhbn5s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002421307506"
+          "Quality": "0.002331002331"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "428"
         },
         {
           "Name": "ETag",
-          "Value": "\"T5H50ohCSzC9p6N0yq2sSgPXx3+EmfRGp56Wy7Oy5xM=\""
+          "Value": "\"tfVicYYtNwvhIkzIVhFR0vpsxqbSLy2JyJ+ndsFZAAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:07:51 GMT"
+          "Value": "Wed, 19 Mar 2025 19:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E=\""
+          "Value": "W/\"cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dyzjzjl8xe"
+          "Value": "wghgxhbn5s"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E="
+          "Value": "sha256-cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4="
         }
       ]
     },
     {
-      "Route": "css/site.dyzjzjl8xe.css",
+      "Route": "css/site.wghgxhbn5s.css",
       "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "878"
+          "Value": "916"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E=\""
+          "Value": "\"cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:07:51 GMT"
+          "Value": "Wed, 19 Mar 2025 19:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dyzjzjl8xe"
+          "Value": "wghgxhbn5s"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xbugy43p3aZ9fotg7WtwjvliGcS3OfHeAzKMoIfOU2E="
+          "Value": "sha256-cNEgDwmf4Xcxk8siRXg7l78pOfS4nkqYDsokqFXSRe4="
         }
       ]
     },
     {
-      "Route": "css/site.dyzjzjl8xe.css.gz",
-      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-dyzjzjl8xe.gz",
+      "Route": "css/site.wghgxhbn5s.css.gz",
+      "AssetFile": "/home/researcher6898/LifeCoach/LifeCoach/obj/Debug/net9.0/compressed/5x2p5vcw3c-wghgxhbn5s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "428"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T5H50ohCSzC9p6N0yq2sSgPXx3+EmfRGp56Wy7Oy5xM=\""
+          "Value": "\"tfVicYYtNwvhIkzIVhFR0vpsxqbSLy2JyJ+ndsFZAAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 16:07:51 GMT"
+          "Value": "Wed, 19 Mar 2025 19:40:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dyzjzjl8xe"
+          "Value": "wghgxhbn5s"
         },
         {
           "Name": "label",
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-T5H50ohCSzC9p6N0yq2sSgPXx3+EmfRGp56Wy7Oy5xM="
+          "Value": "sha256-tfVicYYtNwvhIkzIVhFR0vpsxqbSLy2JyJ+ndsFZAAw="
         }
       ]
     },

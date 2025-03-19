@@ -19,6 +19,7 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color:rgb(161, 238, 212);
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -44,6 +45,6 @@ body {
   color: rgb(2, 192, 192);
 }
 
-.bg-coral {
+.bg-teal {
   background-color: rgb(169, 248, 248);
 }
